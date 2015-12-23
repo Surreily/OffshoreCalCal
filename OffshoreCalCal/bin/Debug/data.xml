@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OffshoreCalCal>
+  <Options>
+    <InitialDate>23/11/2015 22:18:47</InitialDate>
+  </Options>
+  <CurrentData>
+    <Vacations>0</Vacations>
+    <DaysOff>1.33233333333333</DaysOff>
+  </CurrentData>
+  <Days>
+    <Day>
+      <Type>Offshore</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+    </Day>
+  </Days>
+</OffshoreCalCal>

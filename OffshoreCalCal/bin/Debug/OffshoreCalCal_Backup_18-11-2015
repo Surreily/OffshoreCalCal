@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OffshoreCalCal>
+  <Options>
+    <InitialDate>11/11/2015 00:00:00</InitialDate>
+  </Options>
+  <CurrentData>
+    <Vacations>12.378</Vacations>
+    <DaysOff>3</DaysOff>
+  </CurrentData>
+  <Days>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Boss's birthday</Desc>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Charlie</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Moved to Thomas for emergency job</Desc>
+      <Loc>Thomas</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Thomas</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Thomas</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Wife's birthday</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore (BH)</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Friends party at 7</Desc>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Steven</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+  </Days>
+</OffshoreCalCal>

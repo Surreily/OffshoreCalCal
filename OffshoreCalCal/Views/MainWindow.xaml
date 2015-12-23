@@ -1,0 +1,247 @@
+﻿<Window x:Class="OffshoreCalCal.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OffshoreCalCal"
+        xmlns:vms="clr-namespace:OffshoreCalCal.ViewModels"
+        xmlns:enums="clr-namespace:OffshoreCalCal.Enums"
+        xmlns:conv="clr-namespace:OffshoreCalCal.Converters"
+        mc:Ignorable="d"
+        Title="OffshoreCalCal" Height="700" Width="950" MinWidth="800" MinHeight="700" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    
+    <!-- Define resources -->
+    <Window.Resources>
+
+        <!-- List view -->
+        <DataTemplate x:Key="ListViewTemplate">
+            <Grid x:Name="Grid" SnapsToDevicePixels="True">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90" />
+                    <ColumnDefinition Width="80" />
+                    <ColumnDefinition Width="90" />
+                    <ColumnDefinition Width="110" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="{Binding DateString}" Margin="0,0,6,0" />
+                <TextBlock Grid.Column="1" Text="{Binding WeekDay}" Margin="0,0,6,0" />
+                <TextBlock Grid.Column="2" Text="{Binding DayTypeString}" Margin="0,0,6,0" />
+                <TextBlock Grid.Column="3" Text="{Binding Location}" TextTrimming="CharacterEllipsis" Margin="0,0,6,0" />
+                <TextBlock Grid.Column="4" Text="{Binding DescriptionNoReturns}" TextTrimming="CharacterEllipsis" />
+            </Grid>
+        </DataTemplate>
+
+    </Window.Resources>
+
+    <!-- Window content -->
+    <DockPanel>
+        
+        <!-- Menu -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Save" Command="{Binding Path=SaveCommand}"/>
+                <MenuItem Header="Save _Backup" Command="{Binding Path=SaveBackupCommand}"/>
+                <Separator />
+                <MenuItem Header="_Options..." Command="{Binding OptionsCommand}"/>
+                <MenuItem Header="_About..." Command="{Binding AboutCommand}" />
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+            <MenuItem Header="_Insert">
+                <MenuItem Header="_Offshore" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Offshore}" />
+                <MenuItem Header="Offshore (_Bank Holiday)" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.OffshoreBh}" />
+                <MenuItem Header="_Day Off" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.DayOff}" />
+                <MenuItem Header="Day Off (Bank _Holiday)" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.DayOffBh}" />
+                <MenuItem Header="_Sick" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Sick}" />
+                <MenuItem Header="_Vacation" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Vacation}" />
+                <MenuItem Header="B_ase" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Base}" />
+                <MenuItem Header="_Comp. Leave" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.CompLeave}" />
+                <MenuItem Header="_Training" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Training}" />
+                <Separator />
+                <MenuItem Header="_Remove Last Day" Command="{Binding RemoveDayCommand}" />
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Header="_View Selected Day..." Command="{Binding ViewDayCommand}" CommandParameter="{Binding ElementName=dataGrid, Path=SelectedIndex}" />
+                <MenuItem Header="_Edit Selected Day..." Command="{Binding EditDayCommand}" CommandParameter="{Binding ElementName=dataGrid, Path=SelectedIndex}" />
+                <Separator />
+                <MenuItem Header="_Fix Inaccurate Values..." Command="{Binding FixValuesCommand}" />
+            </MenuItem>
+        </Menu>
+
+        <!-- Status bar -->
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem Content="{Binding StatusBarText}">
+            </StatusBarItem>
+        </StatusBar>
+
+        <!-- Right panel -->
+        <DockPanel DockPanel.Dock="Right">
+            
+            <!-- Add a day -->
+            <Border SnapsToDevicePixels="True" BorderBrush="DarkGray" BorderThickness="1" DockPanel.Dock="Top" Margin="10">
+                <StackPanel>
+
+                    <!-- Description -->
+                    <Label Content="Description (optional):" />
+                    <Border x:Name="DescriptionBorder" Margin="4,0,4,4">
+                        <ScrollViewer Height="75" Width="{Binding ElementName=DescriptionBorder, Path=ActualWidth}">
+                            <TextBox ScrollViewer.HorizontalScrollBarVisibility="Hidden" ScrollViewer.VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" Text="{Binding TxtDescription, UpdateSourceTrigger=PropertyChanged}" AcceptsReturn="True" />
+                        </ScrollViewer>
+                    </Border>
+
+                    <!-- Location -->
+                    <Label Content="Location (optional):" />
+                    <Border x:Name="LocationBorder" Margin="4,0,4,4">
+                        <ComboBox IsEditable="True" Text="{Binding TxtLocation, UpdateSourceTrigger=PropertyChanged}" ItemsSource="{Binding Locations}" Width="{Binding ElementName=LocationBorder, Path=ActualWidth}"/>
+                    </Border>
+
+                    <!-- Add day buttons -->
+                    <Label Content="Click a button to add a day:" />
+                    <UniformGrid Columns="3" Rows="3" Margin="2,0,2,2">
+                        <Button Margin="2" Content="Offshore" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Offshore}"/>
+                        <Button Margin="2" Content="Offshore (BH)" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.OffshoreBh}"/>
+                        <Button Margin="2" Content="Day Off" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.DayOff}"/>
+                        <Button Margin="2" Content="Day Off (BH)" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.DayOffBh}"/>
+                        <Button Margin="2" Content="Sick" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Sick}"/>
+                        <Button Margin="2" Content="Vacation" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Vacation}"/>
+                        <Button Margin="2" Content="Base" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Base}"/>
+                        <Button Margin="2" Content="Comp. Leave" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.CompLeave}"/>
+                        <Button Margin="2" Content="Training" Command="{Binding AddDayCommand}" CommandParameter="{x:Static enums:DayType.Training}"/>
+                    </UniformGrid>
+
+                </StackPanel>
+            </Border>
+            
+            <!-- Statistics pane -->
+            <Border SnapsToDevicePixels="True" BorderBrush="DarkGray" BorderThickness="1" DockPanel.Dock="Top" Margin="10,0,10,10">
+                <StackPanel>
+                    <Label Content="Statistics:" />
+                    <Border SnapsToDevicePixels="True" BorderBrush="Gainsboro" BorderThickness="1" Background="WhiteSmoke" Margin="4">
+                        <StackPanel>
+                            
+                            <!-- Remaining day counts -->
+                            <Grid Margin="4">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="130" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                </Grid.RowDefinitions>
+                                <TextBlock Grid.Column="0" Grid.Row="0" FontWeight="SemiBold" Text="Remaining days off:" />
+                                <TextBlock Grid.Column="1" Grid.Row="0" Text="{Binding DaysOff}" />
+                                <TextBlock Grid.Column="0" Grid.Row="1" FontWeight="SemiBold" Text="Remaining Vacations:" />
+                                <TextBlock Grid.Column="1" Grid.Row="1" Text="{Binding Vacations}" />
+                            </Grid>
+                            
+                            <Separator Background="Gainsboro" />
+                            
+                            <!-- Day type total counts -->
+                            <UniformGrid Rows="5" Columns="2" Margin="4">
+                                <UniformGrid.Resources>
+                                    <conv:OffshoreYearCountConverter x:Key="Converter" />
+                                </UniformGrid.Resources>
+                                <TextBlock>
+                                    <Run Text="Offshore: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Offshore'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Offshore (BH): " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Offshore (BH)'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Days off: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Day Off'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Days off (BH): " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Day Off (BH)'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Weekends: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Weekend'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Sick days: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Sick'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Vacations: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Vacation'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Base days: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Base'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Comp. Leaves: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Comp. Leave'}" />
+                                </TextBlock>
+                                <TextBlock>
+                                    <Run Text="Training days: " FontWeight="SemiBold" />
+                                    <Run Text="{Binding Path=Counter, Mode=OneWay, Converter={StaticResource Converter}, ConverterParameter='Training'}" />
+                                </TextBlock>
+                            </UniformGrid>
+                            
+                        </StackPanel>
+                    </Border>
+                    <Button Margin="4,0,4,4" Content="Fix Inaccurate Values..." Command="{Binding FixValuesCommand}"/>
+                </StackPanel>
+            </Border>
+            
+            <!-- Other functions -->
+            <Border SnapsToDevicePixels="True" BorderBrush="DarkGray" BorderThickness="1" DockPanel.Dock="Bottom" Margin="10,0,10,10">
+                <StackPanel>
+                    <Label Content="Other functions:" />
+                    <UniformGrid Columns="2" Rows="2" Margin="2">
+                        <Button Margin="2" Content="Remove Last Day" Command="{Binding Path=RemoveDayCommand}"/>
+                        <Button Margin="2" Content="Edit Selected Day..." Command="{Binding EditDayCommand}" CommandParameter="{Binding ElementName=dataGrid, Path=SelectedIndex}"/>
+                        <Button Margin="2" Content="Options..." Command="{Binding OptionsCommand}"/>
+                        <Button Margin="2" Content="Save" Command="{Binding Path=SaveCommand}" />
+                    </UniformGrid>
+                </StackPanel>
+            </Border>
+            
+            <!-- Empty border to create space -->
+            <Border />
+            
+        </DockPanel>
+        
+        <!-- Titles -->
+        <Border DockPanel.Dock="Top" SnapsToDevicePixels="True" Margin="10,10,0,0" BorderBrush="DarkGray" BorderThickness="1,1,1,0" Background="Gainsboro">
+            <Grid Margin="5,2,0,2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90" />
+                    <ColumnDefinition Width="80" />
+                    <ColumnDefinition Width="90" />
+                    <ColumnDefinition Width="110" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" FontWeight="SemiBold" Text="Date" />
+                <TextBlock Grid.Column="1" FontWeight="SemiBold" Text="Day" />
+                <TextBlock Grid.Column="2" FontWeight="SemiBold" Text="Type" />
+                <TextBlock Grid.Column="3" FontWeight="SemiBold" Text="Location" />
+                <TextBlock Grid.Column="4" FontWeight="SemiBold" Text="Description" />
+            </Grid>
+        </Border>
+
+        <!-- Columns -->
+        <ListView Name="dataGrid" Margin="10,0,0,10" ItemsSource="{Binding Path=OffshoreDays}" ItemTemplate="{StaticResource ListViewTemplate}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <ListView.Resources>
+                <ContextMenu x:Key="ListViewContextMenu">
+                    <MenuItem Header="View This Day..." Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=DataContext.ViewDayCommand}" CommandParameter="{Binding Index}" />
+                    <MenuItem Header="Edit This Day..." Command="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=DataContext.EditDayCommand}" CommandParameter="{Binding Index}" /> 
+                </ContextMenu>
+            </ListView.Resources>
+            <ListView.ItemContainerStyle>
+                <Style TargetType="{x:Type ListViewItem}">
+                    <Setter Property="BorderBrush" Value="DimGray" />
+                    <Setter Property="BorderThickness" Value="0,0,0,1" />
+                    <Setter Property="ContextMenu" Value="{StaticResource ListViewContextMenu}" />
+                </Style>
+            </ListView.ItemContainerStyle>
+        </ListView>
+
+    </DockPanel>
+</Window>

@@ -1,0 +1,3721 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OffshoreCalCal>
+  <Options>
+    <InitialDate>01/01/2013 00:00:00</InitialDate>
+  </Options>
+  <CurrentData>
+    <Vacations>25.94</Vacations>
+    <DaysOff>-20.5</DaysOff>
+  </CurrentData>
+  <Days>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 101</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Nelson</Loc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Tiffany</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+      <Loc>Manriding</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Checked in Bond</Desc>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wil Phoenix</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 6</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Stenna Carron</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Stena Carron</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Stena Carron</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Stena Carron</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Stena Carron</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Stena Carron</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Stena Carron</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ocean Guardian</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Travel by boat</Desc>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Travel by boat</Desc>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Travel home by boat</Desc>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Travel home by boat</Desc>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Forties delta</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Forties delta</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore (BH)</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Blossom went to sleep</Desc>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Blossom back home</Desc>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Wilhunter</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+      <Desc>Offshore survival</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>Christmas</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>John Clelland injured</Desc>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J    TLC</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Mum moved in</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+      <Desc>driving,Mearsk Induction(4.5 Hr overtime)</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>(Capstan)</Desc>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Maersk Resilient</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>8.30 Bond</Desc>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>NTVL</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 102</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 102</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 102</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 102</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 102</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Came home Mum a lot worse</Desc>
+      <Loc>Dunbar</Loc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Hospital (sick)</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Hospital (sick)</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Self certification</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Self certification</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Self certification</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Self certification</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Self certification</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Self certification</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+      <Desc>Zone Power</Desc>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+      <Desc>Zone Power</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Hospital Morning</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Alba</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Alba</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Alba</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Alba</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Alba</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Alba</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Mum in to Roxborough house</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Decision Mum not coming home</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Mum died 8.45</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Mum at Rest Room  Mums 84th Birthday</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Photograph in with Mum(All flowers arrive)</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Funeral 10.00 AM</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Spread Mums ashes beside Dad ( Grade 7 )</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>4th Wedding aniversary</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Mum &amp; Dads Wedding aniversary</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL-J</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>Standby</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>Standby</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>Standby</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>Standby</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>Standby</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>Standby</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>Standing in for Sandy Barclay</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian South</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>House missives signed</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>Mums house sold(paid for)</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+      <Desc>COSHH Training</Desc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Mums council bill settled</Desc>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>PBL.Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Training</Type>
+      <Desc>Radiation Awareness course</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Dads Birthday</Desc>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ensco 70</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Paul B Loyd Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Paul B Loyd Jnr</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 7</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 7</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Captain</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>checked in</Desc>
+      <Loc>Gannet</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 7</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 7</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Rowan Gorilla 7</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off (BH)</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+      <Desc>Seans Graduation day</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>1 year since Mum left home for last time</Desc>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>1 year since Mum died</Desc>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Buzzard</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+      <Desc>New York</Desc>
+    </Day>
+    <Day>
+      <Type>Vacation</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Sick</Type>
+      <Desc>Signed off</Desc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Sell Cigs</Desc>
+      <Loc>Ninian North</Loc>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Capstain Job</Desc>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Desc>Cigs Full Price</Desc>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Base</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Offshore</Type>
+      <Loc>Noble Hans Deul</Loc>
+    </Day>
+    <Day>
+      <Type>Weekend</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+    <Day>
+      <Type>Day Off</Type>
+    </Day>
+  </Days>
+</OffshoreCalCal>

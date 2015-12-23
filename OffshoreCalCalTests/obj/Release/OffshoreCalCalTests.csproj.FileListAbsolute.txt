@@ -1,0 +1,8 @@
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\bin\Release\OffshoreCalCalTests.dll
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\bin\Release\OffshoreCalCalTests.pdb
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\bin\Release\OffshoreCalCal.exe
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\bin\Release\OffshoreCalCal.pdb
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\obj\Release\OffshoreCalCalTests.csprojResolveAssemblyReference.cache
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\obj\Release\OffshoreCalCalTests.dll
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCalTests\obj\Release\OffshoreCalCalTests.pdb
