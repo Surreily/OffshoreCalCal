@@ -9,7 +9,7 @@ using System.Xml;
 
 namespace OffshoreCalCal.ViewModels.DataStorage
 {
-    class DataSaver
+    public class DataSaver
     {
         // File location
         private string _location;

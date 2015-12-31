@@ -2,6 +2,7 @@
 using OffshoreCalCal.ViewModels;
 using OffshoreCalCal.ViewModels.CustomEventArgs;
 using OffshoreCalCal.ViewModels.DataStorage;
+using OffshoreCalCalView.Views;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -10,10 +11,8 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Media;
 
-namespace OffshoreCalCal
+namespace OffshoreCalCalView
 {
     /// <summary>
     /// Interaction logic for App.xaml
@@ -21,7 +20,7 @@ namespace OffshoreCalCal
     public partial class App : Application
     {
         // The file location
-        /*private const string fileLocation = "data.xml";
+        private const string fileLocation = "data.xml";
 
         // The main window's view model
         private MainWindowViewModel mwvm;
@@ -41,7 +40,7 @@ namespace OffshoreCalCal
             {
                 data = loader.Load();
             }
-            catch(FileNotFoundException)
+            catch (FileNotFoundException)
             {
                 // The specified file was not found, let the MainWindowViewModel handle a null value
                 data = null;
@@ -100,7 +99,7 @@ namespace OffshoreCalCal
             window.Owner = mainWindow;
             OptionsWindowViewModel vm = new OptionsWindowViewModel(e.InitialDate);
             window.DataContext = vm;
-            
+
             if (window.ShowDialog() == true)
             {
                 mwvm.HandleOptionsDialog(vm.InitialDate);
@@ -175,11 +174,6 @@ namespace OffshoreCalCal
             {
                 throw;
             }
-        }*/
-
-        public void Application_Startup(object sender, StartupEventArgs e)
-        {
-            // Nothing :)
         }
     }
 }

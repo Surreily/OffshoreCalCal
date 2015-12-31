@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1E09032-802F-43E9-AB6C-6A20EED40F37}</ProjectGuid>
+    <ProjectGuid>{C455DEEC-3771-432E-A75B-962C9E4BEAAB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OffshoreCalCal</RootNamespace>
-    <AssemblyName>OffshoreCalCal</AssemblyName>
+    <RootNamespace>OffshoreCalCalView</RootNamespace>
+    <AssemblyName>OffshoreCalCalView</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject />
+    <StartupObject>OffshoreCalCalView.App</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -57,36 +57,52 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Common\ICloseable.cs" />
-    <Compile Include="Converters\OffshoreYearCountConverter.cs" />
-    <Compile Include="Models\OffshoreYearCount.cs" />
-    <Compile Include="ViewModels\CustomEventArgs\DialogEventArgs.cs" />
-    <Compile Include="ViewModels\CustomEventArgs\EditDayEventArgs.cs" />
-    <Compile Include="ViewModels\CustomEventArgs\FixValuesEventArgs.cs" />
-    <Compile Include="ViewModels\CustomEventArgs\OffshoreDataEventArgs.cs" />
-    <Compile Include="ViewModels\CustomEventArgs\OptionsEventArgs.cs" />
-    <Compile Include="ViewModels\CustomEventArgs\SaveEventArgs.cs" />
-    <Compile Include="ViewModels\CustomEventArgs\ViewDayEventArgs.cs" />
-    <Compile Include="ViewModels\EditDayWindowViewModel.cs" />
-    <Compile Include="ViewModels\FixValuesWindowViewModel.cs" />
-    <Compile Include="ViewModels\OptionsWindowViewModel.cs" />
-    <Compile Include="ViewModels\ViewDayWindowViewModel.cs" />
+    <Compile Include="Views\AboutWindow.xaml.cs">
+      <DependentUpon>AboutWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\EditDayWindow.xaml.cs">
+      <DependentUpon>EditDayWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FixValuesWindow.xaml.cs">
+      <DependentUpon>FixValuesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OptionsWindow.xaml.cs">
+      <DependentUpon>OptionsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ViewDayWindow.xaml.cs">
+      <DependentUpon>ViewDayWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Common\IItemsProvider.cs" />
-    <Compile Include="Common\NotifyPropertyChangedBase.cs" />
-    <Compile Include="Converters\DayTypeConverter.cs" />
-    <Compile Include="Enums\DayType.cs" />
-    <Compile Include="Models\OffshoreDay.cs" />
-    <Compile Include="Models\OffshoreData.cs" />
-    <Compile Include="ViewModels\AboutWindowViewModel.cs" />
-    <Compile Include="ViewModels\DataStorage\DataLoader.cs" />
-    <Compile Include="ViewModels\DataStorage\DataSaver.cs" />
-    <Compile Include="ViewModels\MainWindowDayViewModel.cs" />
-    <Compile Include="ViewModels\MainWindowViewModel.cs" />
-    <Compile Include="Common\RelayCommand.cs" />
+    <Page Include="Views\AboutWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\EditDayWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\FixValuesWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\OptionsWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\ViewDayWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -114,6 +130,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OffshoreCalCal\OffshoreCalCal.csproj">
+      <Project>{c1e09032-802f-43e9-ab6c-6a20eed40f37}</Project>
+      <Name>OffshoreCalCal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Media\Logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

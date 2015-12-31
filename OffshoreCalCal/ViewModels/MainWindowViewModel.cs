@@ -4,7 +4,6 @@ using OffshoreCalCal.Enums;
 using OffshoreCalCal.Models;
 using OffshoreCalCal.ViewModels.CustomEventArgs;
 using OffshoreCalCal.ViewModels.DataStorage;
-using OffshoreCalCal.Views;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;

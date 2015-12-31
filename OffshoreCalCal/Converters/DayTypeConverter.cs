@@ -10,7 +10,7 @@ namespace OffshoreCalCal.Converters
     /// <summary>
     /// Converts DayType values to and from strings.
     /// </summary>
-    class DayTypeConverter
+    public class DayTypeConverter
     {
         /// <summary>
         /// Converts from a DayType to a string.

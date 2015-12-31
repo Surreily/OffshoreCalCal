@@ -14,7 +14,7 @@ namespace OffshoreCalCal.Converters
     /// This converter takes an OffshoreYearCount object along with a string parameter, and returns a 
     /// string representation of the corresponding value. ConvertBack is not supported.
     /// </summary>
-    class OffshoreYearCountConverter : IValueConverter
+    public class OffshoreYearCountConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {

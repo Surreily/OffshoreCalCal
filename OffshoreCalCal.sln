@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCal", "OffshoreC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalTests", "OffshoreCalCalTests\OffshoreCalCalTests.csproj", "{5149E164-B30D-4B51-80CF-F6B772997EDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalView", "OffshoreCalCalView\OffshoreCalCalView.csproj", "{C455DEEC-3771-432E-A75B-962C9E4BEAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalModel", "OffshoreCalCalModel\OffshoreCalCalModel.csproj", "{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5149E164-B30D-4B51-80CF-F6B772997EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5149E164-B30D-4B51-80CF-F6B772997EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5149E164-B30D-4B51-80CF-F6B772997EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C455DEEC-3771-432E-A75B-962C9E4BEAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C455DEEC-3771-432E-A75B-962C9E4BEAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C455DEEC-3771-432E-A75B-962C9E4BEAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C455DEEC-3771-432E-A75B-962C9E4BEAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
