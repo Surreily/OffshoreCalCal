@@ -1,7 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using OffshoreCalCal.Models;
-using OffshoreCalCal.ViewModels;
-using OffshoreCalCal.ViewModels.DataStorage;
 using System;
 using System.Collections.Generic;
 using System.Linq;

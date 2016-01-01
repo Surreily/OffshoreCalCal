@@ -1,6 +1,7 @@
 C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCal\bin\Debug\OffshoreCalCal.exe.config
 C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCal\bin\Debug\OffshoreCalCal.exe
 C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCal\bin\Debug\OffshoreCalCal.pdb
+C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCal\obj\Debug\OffshoreCalCal.csprojResolveAssemblyReference.cache
 C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCal\obj\Debug\App.g.cs
 C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCal\obj\Debug\OffshoreCalCal_MarkupCompile.cache
 C:\Users\Sean\documents\visual studio 2015\Projects\OffshoreCalCal\OffshoreCalCal\obj\Debug\OffshoreCalCal.Properties.Resources.resources

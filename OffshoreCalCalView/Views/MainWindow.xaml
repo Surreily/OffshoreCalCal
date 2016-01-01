@@ -4,9 +4,9 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OffshoreCalCalView.Views"
-        xmlns:vms="clr-namespace:OffshoreCalCal.ViewModels;assembly=OffshoreCalCal"
-        xmlns:enums="clr-namespace:OffshoreCalCal.Enums;assembly=OffshoreCalCal"
-        xmlns:conv="clr-namespace:OffshoreCalCal.Converters;assembly=OffshoreCalCal"
+        xmlns:vms="clr-namespace:OffshoreCalCalViewModel.ViewModels;assembly=OffshoreCalCalViewModel"
+        xmlns:enums="clr-namespace:OffshoreCalCalModel.Enums;assembly=OffshoreCalCalModel"
+        xmlns:conv="clr-namespace:OffshoreCalCalView.Converters"
         mc:Ignorable="d"
         Title="OffshoreCalCal" Height="700" Width="950" MinWidth="800" MinHeight="700" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
     

@@ -1,5 +1,5 @@
-﻿using OffshoreCalCal.Converters;
-using OffshoreCalCal.Models;
+﻿using OffshoreCalCalModel.Misc;
+using OffshoreCalCalModel.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +7,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace OffshoreCalCal.ViewModels.DataStorage
+namespace OffshoreCalCalStorage
 {
+
+    /// <summary>
+    /// Handles the saving of a file, and conversion to XML.
+    /// </summary>
     public class DataSaver
     {
         // File location
@@ -87,7 +91,7 @@ namespace OffshoreCalCal.ViewModels.DataStorage
                     XmlElement type = doc.CreateElement(string.Empty, "Type", string.Empty);
                     day.AppendChild(type);
 
-                    XmlText typeText = doc.CreateTextNode(DayTypeConverter.ConvertToString(offshoreDay.DayType));
+                    XmlText typeText = doc.CreateTextNode(DayTypeFormatter.ConvertToString(offshoreDay.DayType));
                     type.AppendChild(typeText);
 
                     // Save description

@@ -82,8 +82,6 @@
     <Compile Include="Models\OffshoreDay.cs" />
     <Compile Include="Models\OffshoreData.cs" />
     <Compile Include="ViewModels\AboutWindowViewModel.cs" />
-    <Compile Include="ViewModels\DataStorage\DataLoader.cs" />
-    <Compile Include="ViewModels\DataStorage\DataSaver.cs" />
     <Compile Include="ViewModels\MainWindowDayViewModel.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
     <Compile Include="Common\RelayCommand.cs" />
@@ -114,6 +112,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModels\DataStorage\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

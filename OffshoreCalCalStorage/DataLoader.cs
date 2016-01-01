@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using OffshoreCalCalModel.Enums;
+using OffshoreCalCalModel.Misc;
+using OffshoreCalCalModel.Models;
+using System;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using OffshoreCalCal.Models;
 using System.Xml;
-using System.IO;
-using OffshoreCalCal.Enums;
-using OffshoreCalCal.Converters;
 
-namespace OffshoreCalCal.ViewModels.DataStorage
+namespace OffshoreCalCalStorage
 {
     /// <summary>
-    /// Handles the loading of data from a file, and converting it from XML format.
+    /// Handles the loading of data from a file, and converting it from XML.
     /// </summary>
     public class DataLoader
     {
@@ -89,7 +85,7 @@ namespace OffshoreCalCal.ViewModels.DataStorage
                     }
 
                     // Load day type (and keep a variable for reference later)
-                    DayType dayType = DayTypeConverter.ConvertToDayType(day.SelectSingleNode("Type").InnerText);
+                    DayType dayType = DayTypeFormatter.ConvertToDayType(day.SelectSingleNode("Type").InnerText);
                     offshoreDay.DayType = dayType;
 
                     // Determine the date

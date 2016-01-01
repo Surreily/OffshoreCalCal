@@ -57,6 +57,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Converters\OffshoreYearCountConverter.cs" />
     <Compile Include="Views\AboutWindow.xaml.cs">
       <DependentUpon>AboutWindow.xaml</DependentUpon>
     </Compile>
@@ -132,9 +133,21 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OffshoreCalCal\OffshoreCalCal.csproj">
-      <Project>{c1e09032-802f-43e9-ab6c-6a20eed40f37}</Project>
-      <Name>OffshoreCalCal</Name>
+    <ProjectReference Include="..\OffshoreCalCalCommon\OffshoreCalCalCommon.csproj">
+      <Project>{979ee988-0350-4e13-9333-321fdd646edc}</Project>
+      <Name>OffshoreCalCalCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OffshoreCalCalModel\OffshoreCalCalModel.csproj">
+      <Project>{e9fed7e4-6a9c-4653-8646-b3d0720b79d4}</Project>
+      <Name>OffshoreCalCalModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OffshoreCalCalStorage\OffshoreCalCalStorage.csproj">
+      <Project>{8ddfd0bf-e250-43a2-b186-b31c51e6461a}</Project>
+      <Name>OffshoreCalCalStorage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OffshoreCalCalViewModel\OffshoreCalCalViewModel.csproj">
+      <Project>{faf78e08-ae6d-465a-8698-1b5d9c04f375}</Project>
+      <Name>OffshoreCalCalViewModel</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

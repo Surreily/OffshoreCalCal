@@ -54,12 +54,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\MainWindowViewModelTests.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\OffshoreCalCal\OffshoreCalCal.csproj">
-      <Project>{c1e09032-802f-43e9-ab6c-6a20eed40f37}</Project>
-      <Name>OffshoreCalCal</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

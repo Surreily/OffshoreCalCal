@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 14 for Windows Desktop
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCal", "OffshoreCalCal\OffshoreCalCal.csproj", "{C1E09032-802F-43E9-AB6C-6A20EED40F37}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalTests", "OffshoreCalCalTests\OffshoreCalCalTests.csproj", "{5149E164-B30D-4B51-80CF-F6B772997EDB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalView", "OffshoreCalCalView\OffshoreCalCalView.csproj", "{C455DEEC-3771-432E-A75B-962C9E4BEAAB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalModel", "OffshoreCalCalModel\OffshoreCalCalModel.csproj", "{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalViewModel", "OffshoreCalCalViewModel\OffshoreCalCalViewModel.csproj", "{FAF78E08-AE6D-465A-8698-1B5D9C04F375}"
+	ProjectSection(ProjectDependencies) = postProject
+		{979EE988-0350-4E13-9333-321FDD646EDC} = {979EE988-0350-4E13-9333-321FDD646EDC}
+		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4} = {E9FED7E4-6A9C-4653-8646-B3D0720B79D4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalCommon", "OffshoreCalCalCommon\OffshoreCalCalCommon.csproj", "{979EE988-0350-4E13-9333-321FDD646EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffshoreCalCalStorage", "OffshoreCalCalStorage\OffshoreCalCalStorage.csproj", "{8DDFD0BF-E250-43A2-B186-B31C51E6461A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,14 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C1E09032-802F-43E9-AB6C-6A20EED40F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1E09032-802F-43E9-AB6C-6A20EED40F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1E09032-802F-43E9-AB6C-6A20EED40F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1E09032-802F-43E9-AB6C-6A20EED40F37}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5149E164-B30D-4B51-80CF-F6B772997EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5149E164-B30D-4B51-80CF-F6B772997EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5149E164-B30D-4B51-80CF-F6B772997EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5149E164-B30D-4B51-80CF-F6B772997EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C455DEEC-3771-432E-A75B-962C9E4BEAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C455DEEC-3771-432E-A75B-962C9E4BEAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C455DEEC-3771-432E-A75B-962C9E4BEAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +31,18 @@ Global
 		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF78E08-AE6D-465A-8698-1B5D9C04F375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF78E08-AE6D-465A-8698-1B5D9C04F375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF78E08-AE6D-465A-8698-1B5D9C04F375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF78E08-AE6D-465A-8698-1B5D9C04F375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979EE988-0350-4E13-9333-321FDD646EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979EE988-0350-4E13-9333-321FDD646EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979EE988-0350-4E13-9333-321FDD646EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979EE988-0350-4E13-9333-321FDD646EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDFD0BF-E250-43A2-B186-B31C51E6461A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDFD0BF-E250-43A2-B186-B31C51E6461A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDFD0BF-E250-43A2-B186-B31C51E6461A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDFD0BF-E250-43A2-B186-B31C51E6461A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

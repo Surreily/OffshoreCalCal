@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E9FED7E4-6A9C-4653-8646-B3D0720B79D4}</ProjectGuid>
+    <ProjectGuid>{8DDFD0BF-E250-43A2-B186-B31C51E6461A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OffshoreCalCalModel</RootNamespace>
-    <AssemblyName>OffshoreCalCalModel</AssemblyName>
+    <RootNamespace>OffshoreCalCalStorage</RootNamespace>
+    <AssemblyName>OffshoreCalCalStorage</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,12 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enums\DayType.cs" />
-    <Compile Include="Misc\DayTypeFormatter.cs" />
-    <Compile Include="Models\OffshoreData.cs" />
-    <Compile Include="Models\OffshoreDay.cs" />
-    <Compile Include="Models\OffshoreYearCount.cs" />
+    <Compile Include="DataLoader.cs" />
+    <Compile Include="DataSaver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OffshoreCalCalModel\OffshoreCalCalModel.csproj">
+      <Project>{e9fed7e4-6a9c-4653-8646-b3d0720b79d4}</Project>
+      <Name>OffshoreCalCalModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
